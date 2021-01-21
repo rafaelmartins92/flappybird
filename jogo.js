@@ -111,7 +111,7 @@ function criaFlappyBird() {
 
         setTimeout(() => {
           mudaParaTela(Telas.INICIO);
-        }, 500);
+        }, 150);
         return;
       }
       flappyBird.velocidade = flappyBird.velocidade + flappyBird.gravidade;
