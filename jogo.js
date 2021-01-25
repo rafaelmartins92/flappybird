@@ -96,6 +96,7 @@ function fazColisao(flappyBird, chao) {
   const chaoY = chao.y;
 
   if (flappyBirdY >= chaoY) {
+    somHit.play();
     return true;
   }
 
