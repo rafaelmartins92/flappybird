@@ -1,8 +1,8 @@
 const sprites = new Image();
-sprites.src = "./sprites.png";
+sprites.src = "/assets/sprites.png";
 
 const somHit = new Audio();
-somHit.src = "./efeitos/hit.wav";
+somHit.src = "/efeitos/hit.wav";
 
 let frames = 0;
 const canvas = document.querySelector("canvas");
