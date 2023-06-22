@@ -96,4 +96,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/rafa
 [git]: https://git-scm.com
 [vc]: https://code.visualstudio.com/
 [ls]: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-[game]: https://flappysuperman.netlify.app/
+[game]: https://rafaelmartins92.github.io/flappybird/
